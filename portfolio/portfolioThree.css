@@ -1,0 +1,137 @@
+body{
+	margin: 0;
+	margin-top: 100px;
+	color: black;
+}
+
+.content-about {
+	background-image: url();
+	font-family: Righteous;
+	text-align: center;
+}
+
+.content-about h1 {
+	font-size: 70px;
+}
+
+.content-about h3 {
+	margin-top: 0;
+	margin-bottom: 30px;
+	font-size: 50px;
+}
+
+.content-about p {
+	font-weight: bold;
+	font-family: Khand;
+	font-size: 25px;
+	color: #13e5df;
+}
+
+.content-contact-head {
+	margin-top: 100px;
+	text-align: center;
+	font-family: Righteous;
+	font-weight: bold;
+}
+
+.content-contact-head h1 {
+	font-size: 70px;
+}
+
+.content-contact-head p {
+	font-family: Khand;
+	font-size: 25px;
+	color: #13e5df;
+}
+
+.content-learning {
+	font-weight: bold;
+	font-family: Righteous;
+	text-align: center;
+}
+
+.content-contact-icons {
+	text-align: center;
+	font-size: 45px;
+}
+
+.content-contact-icons a {
+	color: black;
+}
+
+.content-contact-icons a:hover {
+	color: #53dde5;
+}
+
+.content-learning h1 {
+	text-decoration: underline;
+}
+
+.content-learning p {
+	font-size: 25px;
+	font-family: Khand;
+	color: #13e5df;
+}
+
+.content-portfolio {
+	margin-top: 100px;
+	text-align: center;
+}
+
+.content-portfolio-head {
+	margin-bottom: 50px;
+}
+
+.content-portfolio h1 {
+	font-family: Righteous;
+	font-size: 70px;
+}
+
+.h3-symbol {
+	color: #53dde5;
+	font-family: Pacifico;
+	font-size: 60px;
+}
+
+.navbartop {
+	z-index: 1;
+	background-color: #222;
+	height: 65px;
+	margin-top: -10px;
+	overflow: hidden;
+	position: fixed;
+	top: 0;
+	width: 100%;
+}
+
+.navbarlinks {
+	padding-top: 24px;
+	text-align: center;
+	width: 100%;
+}
+
+.navbarlinks a {
+	color: #13e5df;
+	font-size: 20px;
+	text-decoration: none;
+	padding: 25px 17px;
+}
+
+.navbarlinks a:hover {
+	background-color: #13e5df;
+	color: white;
+}
+
+.portfolio-img {
+	width: 300px;
+	height: 300px;
+	margin: 0 auto;
+	margin-bottom: 40px;
+}
+
+.project-symbol {
+	color: #53dde5;
+	font-family: Khand;
+	font-weight: bold;
+	font-size: 60px;
+}
